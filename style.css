@@ -1,0 +1,30 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+ .container{
+    background-color: rgb(234, 239, 239);
+    display: flex;
+    width: 400px;
+    height:400px;
+
+}
+.l1{
+    background-color: rgb(0, 255, 195);
+     width:200px;
+    height:200px;
+    position:relative;
+    top:100px;
+    left:100px
+  
+} 
+.l2{
+    background-color: rgb(255, 0, 60);
+     width:200px;
+    height:200px;
+    position:absolute;
+  
+} 
+
+
